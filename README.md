@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar sample web service
+Flask Capstone Project - IN PROGRESS
 ==============================================
 
 This sample code helps get you started with a simple Flask web service
